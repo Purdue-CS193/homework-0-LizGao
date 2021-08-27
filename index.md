@@ -3,7 +3,7 @@
 ### favorite things about CS193:
 - Warm up activities
 - Everything is explained well
-- I like our class room though
+- I like our classroom though
 - `Boiler UP`
 
 ## Welcome to GitHub Pages
