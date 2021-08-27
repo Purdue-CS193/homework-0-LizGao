@@ -1,6 +1,6 @@
 # Liz's First CS193 Homework
 
-###favorite things about CS193:
+### favorite things about CS193:
 - Warm up activities
 - Everything is explained well
 - I like our class room though
